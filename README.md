@@ -1,2 +1,2 @@
 # wi-photos.github.io
-My website
+My website. wi-photos.github.io/photography
