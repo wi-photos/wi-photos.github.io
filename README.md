@@ -1,2 +1,3 @@
 # wi-photos.github.io
-My website. wi-photos.github.io/photography
+My website. 
+[My Photos](https://wi-photos.github.io/photography/)
